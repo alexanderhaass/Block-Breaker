@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2bf4e96b420594f8aa73f0707a49ad13
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Go 2 Old Western
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b6af1f85ce47f4967ae5375ef76e1514, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
